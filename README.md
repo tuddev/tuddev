@@ -23,13 +23,13 @@
 <ul>
   <li>
     <p>
-      <a href="https://github.com/tuddev/users-and-their-data">Users-and-their-data</a>:
+      <a href="https://github.com/tuddev/users-and-their-data">Users and their data</a>:
       TypeScript, React, Redux, TailWind, JSONPlaceHolder Api
     </p>
   </li>
   <li>
     <p>
-      <a href="https://github.com/tuddev/react-todo">React-todo</a>:
+      <a href="https://github.com/tuddev/react-todo">React todo</a>:
         JavaScript, React, Webpack, FireBase, Flux-architecture, Material UI
     </p>
   </li>
